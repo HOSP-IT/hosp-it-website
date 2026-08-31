@@ -5,6 +5,7 @@ import Products from '../sections/Products'
 import HowItWorks from '../sections/HowItWorks'
 import Portfolio from '../sections/Portfolio'
 import SatuSehatBanner from '../sections/SatuSehatBanner'
+import ArtikelTeaser from '../sections/ArtikelTeaser'
 import FAQ from '../sections/FAQ'
 import CTA from '../sections/CTA'
 import Footer from '../sections/Footer'
@@ -20,6 +21,7 @@ export default function HomePage() {
         <HowItWorks />
         <SatuSehatBanner />
         <Portfolio />
+        <ArtikelTeaser />
         <FAQ />
         <CTA />
       </main>

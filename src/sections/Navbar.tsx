@@ -5,6 +5,7 @@ import { Menu, X, Phone, ChevronDown } from 'lucide-react'
 const navLinks = [
   { label: 'Beranda', href: '/' },
   { label: 'Produk & Layanan', href: '/#produk', hasDropdown: true },
+  { label: 'Artikel', href: '/artikel' },
   { label: 'Integrasi SatuSehat', href: '/integrasi-satusehat' },
   { label: 'Portofolio', href: '/#portofolio' },
   { label: 'FAQ', href: '/#faq' },

@@ -1,0 +1,102 @@
+name: Hosp-IT Agentic Article Cron (every 3 days)
+
+on:
+  schedule:
+    # Every 3 days at 00:00 UTC = 07:00 WIB (Asia/Jakarta)
+    # GitHub cron supports standard cron; */3 works: 0 0 */3 * *
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:
+    inputs:
+      topic_id:
+        description: 'Force specific topic ID or slug (leave empty for auto next)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Dry run (preview without commit)'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: hosp-it-article-cron
+  cancel-in-progress: false
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install (only needed for scripts)
+        run: npm ci --ignore-scripts || npm install
+
+      - name: Show next topic (queue status)
+        run: node scripts/generate-article.mjs --list-topics
+
+      - name: Generate article (AI or template)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            DRY="--dry-run"
+          else
+            DRY=""
+          fi
+          if [ -n "${{ inputs.topic_id }}" ]; then
+            node scripts/generate-article.mjs --topic-id "${{ inputs.topic_id }}" $DRY
+          else
+            node scripts/generate-article.mjs $DRY
+          fi
+
+      - name: Generate sitemap & RSS
+        if: inputs.dry_run != 'true'
+        run: |
+          node scripts/generate-sitemap.mjs
+          node scripts/generate-rss.mjs
+
+      - name: Commit & push if changed
+        if: inputs.dry_run != 'true'
+        run: |
+          git config user.name "hosp-it-bot"
+          git config user.email "bot@hosp-it.id"
+          git add src/data/articles.json public/sitemap.xml public/rss.xml scripts/generation-log.json || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit (maybe all topics published or no new article)."
+            exit 0
+          fi
+          TOPIC_SLUG=$(node -e "const d=require('./src/data/articles.json'); const a=d[d.length-1]; console.log(a.slug)")
+          TOPIC_TITLE=$(node -e "const d=require('./src/data/articles.json'); const a=d[d.length-1]; console.log(a.title.replace(/\"/g,'\\\"'))")
+          git commit -m "feat(artikel): auto post — ${TOPIC_TITLE} [skip ci]"
+          git push origin HEAD:main
+          echo "✅ Pushed new article: $TOPIC_SLUG"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Hosp-IT Article Cron Result" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🕐 Run at: $(date -u) UTC / $(TZ='Asia/Jakarta' date) WIB" >> $GITHUB_STEP_SUMMARY
+          echo "🔧 Trigger: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          node scripts/generate-article.mjs --list-topics >> $GITHUB_STEP_SUMMARY || true
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Total articles: $(jq length src/data/articles.json)" >> $GITHUB_STEP_SUMMARY

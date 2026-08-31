@@ -5,7 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build && npm run sitemap && npm run rss",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "rss": "node scripts/generate-rss.mjs",
+    "generate:article": "node scripts/generate-article.mjs",
+    "generate:article:dry": "node scripts/generate-article.mjs --dry-run",
+    "topics": "node scripts/generate-article.mjs --list-topics",
     "lint": "eslint .",
     "preview": "vite preview"
   },

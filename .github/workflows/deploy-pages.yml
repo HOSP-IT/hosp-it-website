@@ -1,0 +1,23 @@
+name: Deploy sanity check (Cloudflare Pages auto-deploy fallback)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci --ignore-scripts || npm install
+      - run: npm run build
+      - name: Verify articles & sitemap
+        run: |
+          echo "Articles: $(jq length src/data/articles.json) total"
+          echo "Sitemap URLs: $(grep -c '<url>' public/sitemap.xml) entries"
+          ls -lh dist/ || ls -lh build/ || true
