@@ -1,0 +1,29 @@
+name = "hosp-it-article-cron"
+main = "src/index.ts"
+compatibility_date = "2026-08-31"
+compatibility_flags = ["nodejs_compat"]
+
+# Cron every 3 days at 00:00 UTC (= 07:00 WIB)
+[triggers]
+crons = ["0 0 */3 * *"]
+
+# Workers AI binding
+[ai]
+binding = "AI"
+
+# KV for state (optional - tracks last run & topic queue)
+# [[kv_namespaces]]
+# binding = "HOSPIT_KV"
+# id = "REPLACE_WITH_KV_ID"
+# preview_id = "REPLACE_WITH_PREVIEW_KV_ID"
+
+[vars]
+SITE_URL = "https://hosp-it.id"
+GITHUB_REPO = "HOSP-IT/hosp-it-website"
+GITHUB_BRANCH = "main"
+# Secrets to set via `npx wrangler secret put GITHUB_TOKEN` and `CF_API_TOKEN` if needed
+# GITHUB_TOKEN = ghp_xxx (repo scope, workflow)
+# Optional: OPENAI_API_KEY for higher quality generation
+
+[observability]
+enabled = true

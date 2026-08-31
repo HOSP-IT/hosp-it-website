@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Hosp-IT — Artikel & Insight RS</title>
+  <link>https://hosp-it.id/artikel</link>
+  <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
+  <language>id-ID</language>
+  <lastBuildDate>Mon, 31 Aug 2026 07:37:07 GMT</lastBuildDate>
+  <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[Harga SIMRS 2026: Skema Lumpsum vs KSO untuk RS Tipe C & B (Studi Kasus)]]></title>
+      <link>https://hosp-it.id/artikel/harga-simrs-2026-lumpsum-vs-kso-untuk-rs-tipe-c-b</link>
+      <guid>https://hosp-it.id/artikel/harga-simrs-2026-lumpsum-vs-kso-untuk-rs-tipe-c-b</guid>
+      <description><![CDATA[Harga SIMRS 990 juta? Pahami rincian Lumpsum (source code milik RS) vs KSO (tanpa investasi awal), simulasi ROI RS 100 bed, dan cara pengadaan via e-Katalog LKPP.]]></description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Bridging BPJS di SIMRS Hosp-IT: VClaim, E-Klaim & Antrol dalam Satu Sistem]]></title>
+      <link>https://hosp-it.id/artikel/bridging-bpjs-vclaim-eklaim-antrol-simrs-hosp-it</link>
+      <guid>https://hosp-it.id/artikel/bridging-bpjs-vclaim-eklaim-antrol-simrs-hosp-it</guid>
+      <description><![CDATA[Tidak perlu aplikasi terpisah: SIMRS Hosp-IT bridging otomatis ke VClaim (SEP), E-Klaim INA-CBG, dan Antrol Mobile JKN. Alur dari pendaftaran hingga klaim cair dalam satu dashboard.]]></description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[BPJS]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Modular Operating Theatre (MOT) vs Kamar Operasi Konvensional: 7 Keunggulan Utama]]></title>
+      <link>https://hosp-it.id/artikel/modular-operating-theatre-mot-vs-konvensional-7-keunggulan</link>
+      <guid>https://hosp-it.id/artikel/modular-operating-theatre-mot-vs-konvensional-7-keunggulan</guid>
+      <description><![CDATA[MOT panel glass/stainless Hosp-IT: instalasi 50% lebih cepat, hermetic, anti-bakteri, mudah maintenance. Bandingkan dengan OT konvensional bata & keramik dari sisi biaya, waktu, dan akreditasi.]]></description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
+    <item>
+      <title><![CDATA[RIS PACS DICOM 3.0: Perbedaan Paket Mini, Plus & Pro — Mana yang Cocok untuk RS Anda?]]></title>
+      <link>https://hosp-it.id/artikel/ris-pacs-dicom-30-perbedaan-mini-plus-pro-untuk-rs</link>
+      <guid>https://hosp-it.id/artikel/ris-pacs-dicom-30-perbedaan-mini-plus-pro-untuk-rs</guid>
+      <description><![CDATA[Hosp-IT menyediakan RIS Mini/Basic/Ultimate & PACS Mini/Plus/Pro. Pahami perbedaan storage, modalitas, 3D VRT, dan lisensi unlimited — plus kapan RS Tipe C cukup Mini vs butuh Pro.]]></description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[RIS PACS]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Integrasi SatuSehat Kemenkes: Kewajiban PMK 24/2022 & Sanksi RS Belum Terhubung]]></title>
+      <link>https://hosp-it.id/artikel/integrasi-satusehat-kemenkes-pmk-24-2022-wajib-rme</link>
+      <guid>https://hosp-it.id/artikel/integrasi-satusehat-kemenkes-pmk-24-2022-wajib-rme</guid>
+      <description><![CDATA[Deadline 31 Des 2025 sudah lewat. PMK 24/2022 & SE 1030/2023 mewajibkan RME & bridging SatuSehat. Apa sanksi administratif, 8 FHIR resources wajib kirim, dan cara Hosp-IT membantu RS kejar compliance?]]></description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SatuSehat]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Apa Itu SIMRS 61 Modul Hosp-IT? Panduan Lengkap untuk RS Indonesia 2026]]></title>
+      <link>https://hosp-it.id/artikel/apa-itu-simrs-61-modul-hosp-it-panduan-lengkap-rs-indonesia</link>
+      <guid>https://hosp-it.id/artikel/apa-itu-simrs-61-modul-hosp-it-panduan-lengkap-rs-indonesia</guid>
+      <description><![CDATA[Hosp-IT menghadirkan SIMRS 61 modul dalam 12 klaster — dari pendaftaran, RME, farmasi hingga bridging BPJS & SatuSehat. Pelajari daftar lengkap, keunggulan vs 24 modul, dan kenapa 30+ RS memilihnya.]]></description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
+</channel>
+</rss>
