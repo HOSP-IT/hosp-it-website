@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Mon, 31 Aug 2026 07:37:07 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 02:06:56 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[8 FHIR Resources Wajib Kirim ke SatuSehat: Encounter hingga AllergyIntolerance]]></title>
+      <link>https://hosp-it.id/artikel/8-fhir-resources-wajib-satusehat-encounter-hingga-allergy</link>
+      <guid>https://hosp-it.id/artikel/8-fhir-resources-wajib-satusehat-encounter-hingga-allergy</guid>
+      <description><![CDATA[Panduan praktis 8 fhir resources wajib kirim ke satusehat: encounter hingga allergyintolerance untuk RS Indonesia. FHIR resources, HL7 FHIR R4, SatuSehat bridging — insight langsun]]></description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SatuSehat]]></category>
+    </item>
     <item>
       <title><![CDATA[Harga SIMRS 2026: Skema Lumpsum vs KSO untuk RS Tipe C & B (Studi Kasus)]]></title>
       <link>https://hosp-it.id/artikel/harga-simrs-2026-lumpsum-vs-kso-untuk-rs-tipe-c-b</link>

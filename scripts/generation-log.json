@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-09-01T02:06:56.893Z",
+    "topicId": 7,
+    "slug": "8-fhir-resources-wajib-satusehat-encounter-hingga-allergy",
+    "title": "8 FHIR Resources Wajib Kirim ke SatuSehat: Encounter hingga AllergyIntolerance",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "a9fffa2069dbb9b443fc597a04049b3b29016576"
+  }
+]
