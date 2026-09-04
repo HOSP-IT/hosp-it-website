@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Tue, 01 Sep 2026 02:06:56 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 01:28:21 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Hermetic Door untuk RS: Spesifikasi Kedap Udara untuk OT, ICU & Ruang Linac]]></title>
+      <link>https://hosp-it.id/artikel/hermetic-door-rs-spesifikasi-untuk-ot-icu-linac</link>
+      <guid>https://hosp-it.id/artikel/hermetic-door-rs-spesifikasi-untuk-ot-icu-linac</guid>
+      <description><![CDATA[Panduan praktis hermetic door untuk rs: spesifikasi kedap udara untuk ot, icu & ruang linac untuk RS Indonesia. hermetic door, pintu hermetic RS, pintu OT hermetic — insight langsu]]></description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
     <item>
       <title><![CDATA[8 FHIR Resources Wajib Kirim ke SatuSehat: Encounter hingga AllergyIntolerance]]></title>
       <link>https://hosp-it.id/artikel/8-fhir-resources-wajib-satusehat-encounter-hingga-allergy</link>
