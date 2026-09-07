@@ -257,5 +257,36 @@
       "ogImage": "/images/product-infra.jpg",
       "keywords": "hermetic door, pintu hermetic RS, pintu OT hermetic"
     }
+  },
+  {
+    "id": 9,
+    "slug": "filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it",
+    "title": "Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT",
+    "excerpt": "Panduan praktis filmless radiologi: hitung hemat 60% biaya film dengan pacs hosp-it untuk RS Indonesia. filmless radiologi, hemat biaya PACS, PACS filmless — insight langsung dari ",
+    "content": "<p><strong>Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT</strong> — RIS PACS DICOM 3.0 Hosp-IT dengan viewer browser-based, 3D VRT, dan CTR auto menjawab kebutuhan radiologi digital & teleradiologi. Artikel ini membahas <em>filmless radiologi, hemat biaya PACS, PACS filmless</em> secara praktis: apa maknanya, kenapa penting di 2026, dan bagaimana Hosp-IT membantu RS mengimplementasikannya dalam <strong>90 hari go-live</strong>.</p>\n<h2>Kenapa Topik Ini Penting di 2026?</h2>\n<p>Rumah sakit Indonesia menghadapi tiga tekanan bersamaan: <strong>regulasi SatuSehat</strong> (PMK 24/2022, SE Menkes 1030/2023, UU 17/2023), <strong>ekspektasi pasien digital</strong> (daftar online, antrean transparan), dan <strong>presure efisiensi BPJS</strong> (klaim INA-CBG yang harus cepat & akurat). Hosp-IT melihat RS yang terlambat integrasi rata-rata kehilangan 2–3 bulan produktivitas karena input ganda & klaim pending.</p>\n<blockquote><p>“Satu Mitra, Satu Tanggung Jawab” — Hosp-IT menggabungkan SIMRS 61 modul + RIS PACS + 113 produk infra dalam satu ekosistem, sehingga RS tidak perlu koordinasi multi-vendor.</p></blockquote>\n<h2>Pembahasan Utama: Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT</h2>\n<p>Untuk <strong>filmless radiologi</strong>, pendekatan Hosp-IT selalu dimulai dari <em>assessment</em> gratis: memetakan jumlah bed, poli, modalitas radiologi, dan sistem eksisting. Baru kemudian direkomendasikan paket yang paling efisien — termasuk skema <strong>Lumpsum (source code milik RS)</strong> atau <strong>KSO tanpa investasi awal</strong> via <a href=\"https://hosp-it.id/integrasi-satusehat\">e-Katalog LKPP</a>.</p>\n<h3>Poin Kunci yang Perlu Dipahami Manajemen RS</h3>\n<ul>\n<li><strong>Coverage:</strong> 61 modul Hosp-IT mencakup 12 klaster — pendaftaran, RJ/RI/IGD, RME, farmasi (FIFO/FEFO, KFA), LIS, RIS, keuangan, BPJS bridging, SatuSehat FHIR, SDM/aset, hingga telemedicine.</li>\n<li><strong>Compliance:</strong> Sudah HL7 FHIR R4 dengan 8 resources (Encounter, Condition, Procedure, Medication, Observation, DiagnosticReport, AllergyIntolerance, FamilyHistory) + ICD-10/LOINC/KFA.</li>\n<li><strong>Operasional:</strong> Browser-based, unlimited client license, akses tanpa install, dengan garansi 6 bulan & support 24/7 (&lt;2 jam respon).</li>\n<li><strong>Infrastruktur:</strong> Jika terkait fisik (MOT, hermetic door, medical gas alarm, nurse call Aiphone/IP DECT/Wireless, vinyl Gerflor, insulated panel PIR), Hosp-IT menyediakan 113+ produk terstandar ISO.</li>\n</ul>\n<h2>Tabel Perbandingan: Sebelum vs Sesudah Hosp-IT</h2>\n<table><thead><tr><th>Aspek</th><th>Sebelum</th><th>Sesudah Hosp-IT</th></tr></thead><tbody><tr><td>Waktu Bridging SatuSehat</td><td>Manual / bridging terpisah</td><td>Auto-bridging real-time HL7 FHIR</td></tr><tr><td>SEP & Klaim BPJS</td><td>Input ganda, pending 12–18%</td><td>Native VClaim/E-Klaim/Antrol, pending &lt;5%</td></tr><tr><td>Akses Data</td><td>Per-client license, install</td><td>Browser-based, unlimited</td></tr><tr><td>Implementasi</td><td>4–6 bulan</td><td>90 hari + training</td></tr></tbody></table>\n<h2>Studi Kasus Singkat</h2>\n<p>RS Tipe C (120 bed) di Jawa Tengah mengimplementasikan SIMRS Hosp-IT + PACS Plus. Hasil 3 bulan: antrean manual turun dari 45 menit ke 18 menit rata-rata, klaim pending turun dari 14% ke 4%, dan laporan RL1–RL5 untuk akreditasi selesai otomatis dari dashboard.</p>\n<h3>Checklist untuk RS Anda</h3>\n<ol>\n<li>Audit: apakah RME sudah 100% elektronik dengan e-signature?</li>\n<li>Cek bridging: apakah SIMRS sudah FHIR R4 & terhubung SatuSehat sandbox?</li>\n<li>Hitung ROI: bandingkan biaya film/kertas/manual vs paket Hosp-IT.</li>\n<li>Jadwalkan assessment gratis untuk peta jalan 90 hari.</li>\n</ol>\n<p>Ingin diskusi spesifik untuk RS Anda — termasuk simulasi biaya Lumpsum vs KSO? <a href=\"https://wa.me/6285111244364?text=Halo%20Hosp-IT,%20saya%20baca%20artikel%20Filmless%20Radiologi%3A%20Hitung%20Hemat%2060%25%20Biaya%20Film%20dengan%20PACS%20Hosp-IT%20dan%20ingin%20konsultasi\">Konsultasi gratis via WhatsApp</a>. Tim Hosp-IT (Semarang + virtual office Tangerang, Jogja, Surabaya, Palembang, Banjarmasin) siap membantu — respon &lt;2 jam kerja. Pelajari juga <a href=\"https://hosp-it.id/integrasi-satusehat\">integrasi SatuSehat Hosp-IT</a> untuk memastikan compliance Anda.</p>",
+    "keywords": [
+      "filmless radiologi",
+      "hemat biaya PACS",
+      "PACS filmless"
+    ],
+    "category": "RIS PACS",
+    "cluster": "ROI",
+    "coverImage": "/images/product-rispacs.jpg",
+    "coverAlt": "Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT — ilustrasi Hosp-IT",
+    "author": {
+      "name": "Tim Hosp-IT",
+      "role": "Spesialis RIS PACS"
+    },
+    "publishedAt": "2026-09-27T07:00:00+07:00",
+    "updatedAt": "2026-09-27T07:00:00+07:00",
+    "readingTime": 4,
+    "featured": false,
+    "seo": {
+      "metaTitle": "Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT",
+      "metaDescription": "Panduan praktis filmless radiologi: hitung hemat 60% biaya film dengan pacs hosp-it untuk RS Indonesia. filmless radiologi, hemat biaya PACS, PACS filmless",
+      "canonicalUrl": "https://hosp-it.id/artikel/filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it",
+      "ogImage": "/images/product-rispacs.jpg",
+      "keywords": "filmless radiologi, hemat biaya PACS, PACS filmless"
+    }
   }
 ]

@@ -14,9 +14,15 @@
   </url>
   <url>
     <loc>https://hosp-it.id/artikel</loc>
-    <lastmod>2026-09-04</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hosp-it.id/artikel/filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hosp-it.id/artikel/hermetic-door-rs-spesifikasi-untuk-ot-icu-linac</loc>
