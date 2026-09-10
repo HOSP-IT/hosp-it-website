@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Mon, 07 Sep 2026 03:07:12 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 01:33:12 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[SIMRS Cloud vs On-Premise: Mana Lebih Aman untuk Data Pasien RS?]]></title>
+      <link>https://hosp-it.id/artikel/simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs</link>
+      <guid>https://hosp-it.id/artikel/simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs</guid>
+      <description><![CDATA[Panduan praktis simrs cloud vs on-premise: mana lebih aman untuk data pasien rs? untuk RS Indonesia. SIMRS cloud, SIMRS on premise, keamanan SIMRS — insight langsung dari tim Hosp-]]></description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
     <item>
       <title><![CDATA[Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT]]></title>
       <link>https://hosp-it.id/artikel/filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it</link>
