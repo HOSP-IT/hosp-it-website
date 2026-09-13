@@ -14,9 +14,15 @@
   </url>
   <url>
     <loc>https://hosp-it.id/artikel</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hosp-it.id/artikel/medical-gas-system-instalasi-o2-n2o-vacuum-alarm-rs</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hosp-it.id/artikel/simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs</loc>

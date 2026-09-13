@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-13T01:29:00.171Z",
+    "topicId": 11,
+    "slug": "medical-gas-system-instalasi-o2-n2o-vacuum-alarm-rs",
+    "title": "Medical Gas System: Standar Instalasi O2, N2O & Vacuum + Alarm untuk RS Tipe C/B",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "e7d2a7a0c22f4ed76a14c02850cefd440aa63426"
+  },
+  {
     "timestamp": "2026-09-10T01:33:12.036Z",
     "topicId": 10,
     "slug": "simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs",

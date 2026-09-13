@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Thu, 10 Sep 2026 01:33:12 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 01:29:00 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Medical Gas System: Standar Instalasi O2, N2O & Vacuum + Alarm untuk RS Tipe C/B]]></title>
+      <link>https://hosp-it.id/artikel/medical-gas-system-instalasi-o2-n2o-vacuum-alarm-rs</link>
+      <guid>https://hosp-it.id/artikel/medical-gas-system-instalasi-o2-n2o-vacuum-alarm-rs</guid>
+      <description><![CDATA[Panduan praktis medical gas system: standar instalasi o2, n2o & vacuum + alarm untuk rs tipe c/b untuk RS Indonesia. medical gas RS, instalasi gas medis, alarm medical gas — insigh]]></description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
     <item>
       <title><![CDATA[SIMRS Cloud vs On-Premise: Mana Lebih Aman untuk Data Pasien RS?]]></title>
       <link>https://hosp-it.id/artikel/simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs</link>
