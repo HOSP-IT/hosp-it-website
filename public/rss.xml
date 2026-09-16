@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sun, 13 Sep 2026 01:29:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 01:47:31 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Cara Implementasi SIMRS 90 Hari Tanpa Ganggu Operasional RS — Timeline Hosp-IT]]></title>
+      <link>https://hosp-it.id/artikel/cara-implementasi-simrs-90-hari-tanpa-ganggu-operasional</link>
+      <guid>https://hosp-it.id/artikel/cara-implementasi-simrs-90-hari-tanpa-ganggu-operasional</guid>
+      <description><![CDATA[Panduan praktis cara implementasi simrs 90 hari tanpa ganggu operasional rs — timeline hosp-it untuk RS Indonesia. implementasi SIMRS, go-live SIMRS, timeline SIMRS — insight langs]]></description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
     <item>
       <title><![CDATA[Medical Gas System: Standar Instalasi O2, N2O & Vacuum + Alarm untuk RS Tipe C/B]]></title>
       <link>https://hosp-it.id/artikel/medical-gas-system-instalasi-o2-n2o-vacuum-alarm-rs</link>
