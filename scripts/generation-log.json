@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-19T01:42:52.560Z",
+    "topicId": 13,
+    "slug": "nurse-call-system-aiphone-vs-wireless-vs-ip-dect-untuk-rs",
+    "title": "Nurse Call System: Aiphone vs Wireless vs IP DECT — Mana Cocok untuk RS 100-300 Bed?",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "e0c74f4f5a33508edd98d4c687e764a89e9d5eac"
+  },
+  {
     "timestamp": "2026-09-16T01:47:31.430Z",
     "topicId": 12,
     "slug": "cara-implementasi-simrs-90-hari-tanpa-ganggu-operasional",

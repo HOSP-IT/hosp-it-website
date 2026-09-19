@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Wed, 16 Sep 2026 01:47:31 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 01:42:52 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Nurse Call System: Aiphone vs Wireless vs IP DECT — Mana Cocok untuk RS 100-300 Bed?]]></title>
+      <link>https://hosp-it.id/artikel/nurse-call-system-aiphone-vs-wireless-vs-ip-dect-untuk-rs</link>
+      <guid>https://hosp-it.id/artikel/nurse-call-system-aiphone-vs-wireless-vs-ip-dect-untuk-rs</guid>
+      <description><![CDATA[Panduan praktis nurse call system: aiphone vs wireless vs ip dect — mana cocok untuk rs 100-300 bed? untuk RS Indonesia. nurse call system, nurse call RS, Aiphone nurse call — insi]]></description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
     <item>
       <title><![CDATA[Cara Implementasi SIMRS 90 Hari Tanpa Ganggu Operasional RS — Timeline Hosp-IT]]></title>
       <link>https://hosp-it.id/artikel/cara-implementasi-simrs-90-hari-tanpa-ganggu-operasional</link>
