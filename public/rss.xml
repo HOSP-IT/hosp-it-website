@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sat, 19 Sep 2026 01:42:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 01:57:39 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Teleradiologi 24 Jam: Kirim CT/MRI Antar RS Tanpa Kurir Film dengan RIS PACS]]></title>
+      <link>https://hosp-it.id/artikel/teleradiologi-24-jam-kirim-ct-mri-antar-rs-tanpa-kurir-film</link>
+      <guid>https://hosp-it.id/artikel/teleradiologi-24-jam-kirim-ct-mri-antar-rs-tanpa-kurir-film</guid>
+      <description><![CDATA[Panduan praktis teleradiologi 24 jam: kirim ct/mri antar rs tanpa kurir film dengan ris pacs untuk RS Indonesia. teleradiologi, teleradiografi, RIS PACS teleradiologi — insight lan]]></description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[RIS PACS]]></category>
+    </item>
     <item>
       <title><![CDATA[Nurse Call System: Aiphone vs Wireless vs IP DECT — Mana Cocok untuk RS 100-300 Bed?]]></title>
       <link>https://hosp-it.id/artikel/nurse-call-system-aiphone-vs-wireless-vs-ip-dect-untuk-rs</link>

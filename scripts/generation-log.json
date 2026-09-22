@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-22T01:57:39.608Z",
+    "topicId": 14,
+    "slug": "teleradiologi-24-jam-kirim-ct-mri-antar-rs-tanpa-kurir-film",
+    "title": "Teleradiologi 24 Jam: Kirim CT/MRI Antar RS Tanpa Kurir Film dengan RIS PACS",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "2fb4e701d1fc80673e22b609b725e96a4ce471e9"
+  },
+  {
     "timestamp": "2026-09-19T01:42:52.560Z",
     "topicId": 13,
     "slug": "nurse-call-system-aiphone-vs-wireless-vs-ip-dect-untuk-rs",
