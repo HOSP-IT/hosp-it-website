@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-25T01:59:11.892Z",
+    "topicId": 15,
+    "slug": "simrs-ekatalog-lkpp-panduan-pengadaan-rsud-2026",
+    "title": "SIMRS e-Katalog LKPP: Panduan Pengadaan RSUD Langkah-demi-Langkah 2026",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "f3b83e0fc64d8b3b89b03f39903fedbf59a19af4"
+  },
+  {
     "timestamp": "2026-09-22T01:57:39.608Z",
     "topicId": 14,
     "slug": "teleradiologi-24-jam-kirim-ct-mri-antar-rs-tanpa-kurir-film",
