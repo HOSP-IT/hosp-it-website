@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-28T02:02:03.270Z",
+    "topicId": 16,
+    "slug": "ctr-cardiothoracic-ratio-otomatis-di-pacs-hosp-it",
+    "title": "CTR Cardiothoracic Ratio Otomatis di PACS Hosp-IT: Diagnosis Jantung Lebih Cepat",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "1a4e7cfe718e47ac71ef28d2618f498da8ebc5cc"
+  },
+  {
     "timestamp": "2026-09-25T01:59:11.892Z",
     "topicId": 15,
     "slug": "simrs-ekatalog-lkpp-panduan-pengadaan-rsud-2026",

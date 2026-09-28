@@ -14,9 +14,15 @@
   </url>
   <url>
     <loc>https://hosp-it.id/artikel</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hosp-it.id/artikel/ctr-cardiothoracic-ratio-otomatis-di-pacs-hosp-it</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hosp-it.id/artikel/simrs-ekatalog-lkpp-panduan-pengadaan-rsud-2026</loc>

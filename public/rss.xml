@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Fri, 25 Sep 2026 01:59:11 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 02:02:03 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[CTR Cardiothoracic Ratio Otomatis di PACS Hosp-IT: Diagnosis Jantung Lebih Cepat]]></title>
+      <link>https://hosp-it.id/artikel/ctr-cardiothoracic-ratio-otomatis-di-pacs-hosp-it</link>
+      <guid>https://hosp-it.id/artikel/ctr-cardiothoracic-ratio-otomatis-di-pacs-hosp-it</guid>
+      <description><![CDATA[Panduan praktis ctr cardiothoracic ratio otomatis di pacs hosp-it: diagnosis jantung lebih cepat untuk RS Indonesia. CTR PACS, cardiothoracic ratio, PACS otomatis — insight langsun]]></description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[RIS PACS]]></category>
+    </item>
     <item>
       <title><![CDATA[SIMRS e-Katalog LKPP: Panduan Pengadaan RSUD Langkah-demi-Langkah 2026]]></title>
       <link>https://hosp-it.id/artikel/simrs-ekatalog-lkpp-panduan-pengadaan-rsud-2026</link>
