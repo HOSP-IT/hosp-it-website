@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-07T02:45:42.863Z",
+    "topicId": 19,
+    "slug": "snars-simrs-modul-pmkp-ppi-rl-untuk-akreditasi-rs",
+    "title": "SNARS & SIMRS: Modul PMKP, PPI & RL1-RL5 yang Wajib Ada untuk Akreditasi RS",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "425dbebdf2c4d5df90d1a053930b7b2e6d1f1a83"
+  },
+  {
     "timestamp": "2026-10-04T02:54:03.178Z",
     "topicId": 18,
     "slug": "antrean-online-bpjs-antrol-mobile-jkn-integrasi-simrs",

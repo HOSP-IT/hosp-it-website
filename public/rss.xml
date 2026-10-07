@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sun, 04 Oct 2026 02:54:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 02:45:42 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[SNARS & SIMRS: Modul PMKP, PPI & RL1-RL5 yang Wajib Ada untuk Akreditasi RS]]></title>
+      <link>https://hosp-it.id/artikel/snars-simrs-modul-pmkp-ppi-rl-untuk-akreditasi-rs</link>
+      <guid>https://hosp-it.id/artikel/snars-simrs-modul-pmkp-ppi-rl-untuk-akreditasi-rs</guid>
+      <description><![CDATA[Panduan praktis snars & simrs: modul pmkp, ppi & rl1-rl5 yang wajib ada untuk akreditasi rs untuk RS Indonesia. SNARS SIMRS, PMKP PPI, RL SIMRS akreditasi — insight langsung dari t]]></description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
     <item>
       <title><![CDATA[Antrean Online BPJS & Antrol Mobile JKN: Integrasi Display Anjungan di SIMRS Hosp-IT]]></title>
       <link>https://hosp-it.id/artikel/antrean-online-bpjs-antrol-mobile-jkn-integrasi-simrs</link>
