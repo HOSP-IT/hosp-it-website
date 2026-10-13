@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sat, 10 Oct 2026 02:49:32 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 03:59:51 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[KFA di SatuSehat: Standarisasi Kode Obat Farmasi & e-Prescribing di SIMRS]]></title>
+      <link>https://hosp-it.id/artikel/kfa-satusehat-standarisasi-kode-obat-farmasi-eprescribing</link>
+      <guid>https://hosp-it.id/artikel/kfa-satusehat-standarisasi-kode-obat-farmasi-eprescribing</guid>
+      <description><![CDATA[Panduan praktis kfa di satusehat: standarisasi kode obat farmasi & e-prescribing di simrs untuk RS Indonesia. KFA SatuSehat, kode obat SatuSehat, e-prescribing — insight langsung d]]></description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SatuSehat]]></category>
+    </item>
     <item>
       <title><![CDATA[Hitung ROI: Kapan Investasi SIMRS 990 Juta Balik Modal? (Kalkulator RS 100 Bed)]]></title>
       <link>https://hosp-it.id/artikel/hitung-roi-kapan-investasi-simrs-990-juta-balik-modal</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Deadline 31 Des 2025 sudah lewat. PMK 24/2022 & SE 1030/2023 mewajibkan RME & bridging SatuSehat. Apa sanksi administratif, 8 FHIR resources wajib kirim, dan cara Hosp-IT membantu RS kejar compliance?]]></description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[SatuSehat]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Apa Itu SIMRS 61 Modul Hosp-IT? Panduan Lengkap untuk RS Indonesia 2026]]></title>
-      <link>https://hosp-it.id/artikel/apa-itu-simrs-61-modul-hosp-it-panduan-lengkap-rs-indonesia</link>
-      <guid>https://hosp-it.id/artikel/apa-itu-simrs-61-modul-hosp-it-panduan-lengkap-rs-indonesia</guid>
-      <description><![CDATA[Hosp-IT menghadirkan SIMRS 61 modul dalam 12 klaster — dari pendaftaran, RME, farmasi hingga bridging BPJS & SatuSehat. Pelajari daftar lengkap, keunggulan vs 24 modul, dan kenapa 30+ RS memilihnya.]]></description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[SIMRS]]></category>
     </item>
 </channel>
 </rss>

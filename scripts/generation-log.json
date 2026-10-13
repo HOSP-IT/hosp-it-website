@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-13T03:59:51.495Z",
+    "topicId": 21,
+    "slug": "kfa-satusehat-standarisasi-kode-obat-farmasi-eprescribing",
+    "title": "KFA di SatuSehat: Standarisasi Kode Obat Farmasi & e-Prescribing di SIMRS",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "0429750082b33664ec10972f2b8f2f045c55125b"
+  },
+  {
     "timestamp": "2026-10-10T02:49:32.829Z",
     "topicId": 20,
     "slug": "hitung-roi-kapan-investasi-simrs-990-juta-balik-modal",
