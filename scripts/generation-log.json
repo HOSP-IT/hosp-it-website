@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-16T01:45:35.375Z",
+    "topicId": 22,
+    "slug": "studi-kasus-30-rs-jawa-bali-sumatera-kalimantan-pakai-hosp-it",
+    "title": "Studi Kasus: 30+ RS di Jawa, Bali, Sumatera & Kalimantan yang Percaya Hosp-IT",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "24a9d800375136efc9020f92a5bc015d5c249de3"
+  },
+  {
     "timestamp": "2026-10-13T03:59:51.495Z",
     "topicId": 21,
     "slug": "kfa-satusehat-standarisasi-kode-obat-farmasi-eprescribing",

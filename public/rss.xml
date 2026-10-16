@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Tue, 13 Oct 2026 03:59:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 01:45:35 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Studi Kasus: 30+ RS di Jawa, Bali, Sumatera & Kalimantan yang Percaya Hosp-IT]]></title>
+      <link>https://hosp-it.id/artikel/studi-kasus-30-rs-jawa-bali-sumatera-kalimantan-pakai-hosp-it</link>
+      <guid>https://hosp-it.id/artikel/studi-kasus-30-rs-jawa-bali-sumatera-kalimantan-pakai-hosp-it</guid>
+      <description><![CDATA[Panduan praktis studi kasus: 30+ rs di jawa, bali, sumatera & kalimantan yang percaya hosp-it untuk RS Indonesia. portofolio Hosp-IT, RS pakai Hosp-IT, referensi SIMRS — insight la]]></description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Portofolio]]></category>
+    </item>
     <item>
       <title><![CDATA[KFA di SatuSehat: Standarisasi Kode Obat Farmasi & e-Prescribing di SIMRS]]></title>
       <link>https://hosp-it.id/artikel/kfa-satusehat-standarisasi-kode-obat-farmasi-eprescribing</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Hosp-IT menyediakan RIS Mini/Basic/Ultimate & PACS Mini/Plus/Pro. Pahami perbedaan storage, modalitas, 3D VRT, dan lisensi unlimited — plus kapan RS Tipe C cukup Mini vs butuh Pro.]]></description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[RIS PACS]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Integrasi SatuSehat Kemenkes: Kewajiban PMK 24/2022 & Sanksi RS Belum Terhubung]]></title>
-      <link>https://hosp-it.id/artikel/integrasi-satusehat-kemenkes-pmk-24-2022-wajib-rme</link>
-      <guid>https://hosp-it.id/artikel/integrasi-satusehat-kemenkes-pmk-24-2022-wajib-rme</guid>
-      <description><![CDATA[Deadline 31 Des 2025 sudah lewat. PMK 24/2022 & SE 1030/2023 mewajibkan RME & bridging SatuSehat. Apa sanksi administratif, 8 FHIR resources wajib kirim, dan cara Hosp-IT membantu RS kejar compliance?]]></description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[SatuSehat]]></category>
     </item>
 </channel>
 </rss>
