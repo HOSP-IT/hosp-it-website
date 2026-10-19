@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Fri, 16 Oct 2026 01:45:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 01:53:39 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Ceiling Pendant Surgical 340°: Solusi Ergonomis untuk Kamar Operasi Modern]]></title>
+      <link>https://hosp-it.id/artikel/ceiling-pendant-surgical-340-derajat-untuk-kamar-operasi-modern</link>
+      <guid>https://hosp-it.id/artikel/ceiling-pendant-surgical-340-derajat-untuk-kamar-operasi-modern</guid>
+      <description><![CDATA[Panduan praktis ceiling pendant surgical 340°: solusi ergonomis untuk kamar operasi modern untuk RS Indonesia. ceiling pendant RS, pendant operasi, ceiling pendant 340 — insight la]]></description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
     <item>
       <title><![CDATA[Studi Kasus: 30+ RS di Jawa, Bali, Sumatera & Kalimantan yang Percaya Hosp-IT]]></title>
       <link>https://hosp-it.id/artikel/studi-kasus-30-rs-jawa-bali-sumatera-kalimantan-pakai-hosp-it</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[MOT panel glass/stainless Hosp-IT: instalasi 50% lebih cepat, hermetic, anti-bakteri, mudah maintenance. Bandingkan dengan OT konvensional bata & keramik dari sisi biaya, waktu, dan akreditasi.]]></description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Medical Infra]]></category>
-    </item>
-    <item>
-      <title><![CDATA[RIS PACS DICOM 3.0: Perbedaan Paket Mini, Plus & Pro — Mana yang Cocok untuk RS Anda?]]></title>
-      <link>https://hosp-it.id/artikel/ris-pacs-dicom-30-perbedaan-mini-plus-pro-untuk-rs</link>
-      <guid>https://hosp-it.id/artikel/ris-pacs-dicom-30-perbedaan-mini-plus-pro-untuk-rs</guid>
-      <description><![CDATA[Hosp-IT menyediakan RIS Mini/Basic/Ultimate & PACS Mini/Plus/Pro. Pahami perbedaan storage, modalitas, 3D VRT, dan lisensi unlimited — plus kapan RS Tipe C cukup Mini vs butuh Pro.]]></description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[RIS PACS]]></category>
     </item>
 </channel>
 </rss>
