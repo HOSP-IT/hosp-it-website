@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Mon, 19 Oct 2026 01:53:39 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 01:59:26 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Zero Input Ganda: Cara Hosp-IT Auto-Bridging RME ke SatuSehat Tanpa Entry 2 Kali]]></title>
+      <link>https://hosp-it.id/artikel/zero-input-ganda-auto-bridging-rme-satusehat-tanpa-entry-2x</link>
+      <guid>https://hosp-it.id/artikel/zero-input-ganda-auto-bridging-rme-satusehat-tanpa-entry-2x</guid>
+      <description><![CDATA[Panduan praktis zero input ganda: cara hosp-it auto-bridging rme ke satusehat tanpa entry 2 kali untuk RS Indonesia. zero input SatuSehat, auto bridging, RME SatuSehat — insight la]]></description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SatuSehat]]></category>
+    </item>
     <item>
       <title><![CDATA[Ceiling Pendant Surgical 340°: Solusi Ergonomis untuk Kamar Operasi Modern]]></title>
       <link>https://hosp-it.id/artikel/ceiling-pendant-surgical-340-derajat-untuk-kamar-operasi-modern</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Tidak perlu aplikasi terpisah: SIMRS Hosp-IT bridging otomatis ke VClaim (SEP), E-Klaim INA-CBG, dan Antrol Mobile JKN. Alur dari pendaftaran hingga klaim cair dalam satu dashboard.]]></description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[BPJS]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Modular Operating Theatre (MOT) vs Kamar Operasi Konvensional: 7 Keunggulan Utama]]></title>
-      <link>https://hosp-it.id/artikel/modular-operating-theatre-mot-vs-konvensional-7-keunggulan</link>
-      <guid>https://hosp-it.id/artikel/modular-operating-theatre-mot-vs-konvensional-7-keunggulan</guid>
-      <description><![CDATA[MOT panel glass/stainless Hosp-IT: instalasi 50% lebih cepat, hermetic, anti-bakteri, mudah maintenance. Bandingkan dengan OT konvensional bata & keramik dari sisi biaya, waktu, dan akreditasi.]]></description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Medical Infra]]></category>
     </item>
 </channel>
 </rss>
