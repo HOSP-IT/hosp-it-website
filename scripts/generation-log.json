@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-25T01:49:27.748Z",
+    "topicId": 25,
+    "slug": "hosp-it-vs-kompetitor-adu-61-vs-24-modul-tabel-2026",
+    "title": "Hosp-IT vs Kompetitor: Adu 61 vs 24 Modul, Harga, FHIR & Garansi (Tabel 2026)",
+    "readingTime": 4,
+    "dryRun": false,
+    "aiUsed": false,
+    "commitSha": "a668d5ec7b2bd259115a34e14a08a3e08ce8e1f1"
+  },
+  {
     "timestamp": "2026-10-22T01:59:26.655Z",
     "topicId": 24,
     "slug": "zero-input-ganda-auto-bridging-rme-satusehat-tanpa-entry-2x",

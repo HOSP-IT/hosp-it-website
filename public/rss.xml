@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Thu, 22 Oct 2026 01:59:26 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 01:49:27 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Hosp-IT vs Kompetitor: Adu 61 vs 24 Modul, Harga, FHIR & Garansi (Tabel 2026)]]></title>
+      <link>https://hosp-it.id/artikel/hosp-it-vs-kompetitor-adu-61-vs-24-modul-tabel-2026</link>
+      <guid>https://hosp-it.id/artikel/hosp-it-vs-kompetitor-adu-61-vs-24-modul-tabel-2026</guid>
+      <description><![CDATA[Panduan praktis hosp-it vs kompetitor: adu 61 vs 24 modul, harga, fhir & garansi (tabel 2026) untuk RS Indonesia. perbandingan SIMRS, Hosp-IT vs, SIMRS terbaik 2026 — insight langs]]></description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
     <item>
       <title><![CDATA[Zero Input Ganda: Cara Hosp-IT Auto-Bridging RME ke SatuSehat Tanpa Entry 2 Kali]]></title>
       <link>https://hosp-it.id/artikel/zero-input-ganda-auto-bridging-rme-satusehat-tanpa-entry-2x</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Harga SIMRS 990 juta? Pahami rincian Lumpsum (source code milik RS) vs KSO (tanpa investasi awal), simulasi ROI RS 100 bed, dan cara pengadaan via e-Katalog LKPP.]]></description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[SIMRS]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Bridging BPJS di SIMRS Hosp-IT: VClaim, E-Klaim & Antrol dalam Satu Sistem]]></title>
-      <link>https://hosp-it.id/artikel/bridging-bpjs-vclaim-eklaim-antrol-simrs-hosp-it</link>
-      <guid>https://hosp-it.id/artikel/bridging-bpjs-vclaim-eklaim-antrol-simrs-hosp-it</guid>
-      <description><![CDATA[Tidak perlu aplikasi terpisah: SIMRS Hosp-IT bridging otomatis ke VClaim (SEP), E-Klaim INA-CBG, dan Antrol Mobile JKN. Alur dari pendaftaran hingga klaim cair dalam satu dashboard.]]></description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[BPJS]]></category>
     </item>
 </channel>
 </rss>
