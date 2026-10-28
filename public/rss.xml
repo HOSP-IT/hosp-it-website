@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sun, 25 Oct 2026 01:49:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 02:38:18 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Scrub Sink & Pass Box SUS304 dengan UV Sterilisasi untuk OT Steril]]></title>
+      <link>https://hosp-it.id/artikel/scrub-sink-pass-box-sus304-uv-sterilisasi-untuk-ot-steril</link>
+      <guid>https://hosp-it.id/artikel/scrub-sink-pass-box-sus304-uv-sterilisasi-untuk-ot-steril</guid>
+      <description><![CDATA[Panduan praktis scrub sink & pass box sus304 dengan uv sterilisasi untuk ot steril untuk RS Indonesia. scrub sink RS, pass box RS, SUS304 OT — insight langsung dari tim Hosp-IT (90]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
     <item>
       <title><![CDATA[Hosp-IT vs Kompetitor: Adu 61 vs 24 Modul, Harga, FHIR & Garansi (Tabel 2026)]]></title>
       <link>https://hosp-it.id/artikel/hosp-it-vs-kompetitor-adu-61-vs-24-modul-tabel-2026</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Panduan praktis 8 fhir resources wajib kirim ke satusehat: encounter hingga allergyintolerance untuk RS Indonesia. FHIR resources, HL7 FHIR R4, SatuSehat bridging — insight langsun]]></description>
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[SatuSehat]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Harga SIMRS 2026: Skema Lumpsum vs KSO untuk RS Tipe C & B (Studi Kasus)]]></title>
-      <link>https://hosp-it.id/artikel/harga-simrs-2026-lumpsum-vs-kso-untuk-rs-tipe-c-b</link>
-      <guid>https://hosp-it.id/artikel/harga-simrs-2026-lumpsum-vs-kso-untuk-rs-tipe-c-b</guid>
-      <description><![CDATA[Harga SIMRS 990 juta? Pahami rincian Lumpsum (source code milik RS) vs KSO (tanpa investasi awal), simulasi ROI RS 100 bed, dan cara pengadaan via e-Katalog LKPP.]]></description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[SIMRS]]></category>
     </item>
 </channel>
 </rss>
