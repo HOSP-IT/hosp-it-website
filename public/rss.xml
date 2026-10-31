@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Wed, 28 Oct 2026 02:38:18 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 02:49:15 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[5 Kesalahan Klaim INA-CBG yang Bikin Pending & Cara Cek Cepat di E-Klaim]]></title>
+      <link>https://hosp-it.id/artikel/kesalahan-klaim-ina-cbg-bikin-pending-cara-cek-di-eklaim</link>
+      <guid>https://hosp-it.id/artikel/kesalahan-klaim-ina-cbg-bikin-pending-cara-cek-di-eklaim</guid>
+      <description><![CDATA[Panduan praktis 5 kesalahan klaim ina-cbg yang bikin pending & cara cek cepat di e-klaim untuk RS Indonesia. klaim INA-CBG, E-Klaim pending, kesalahan klaim BPJS — insight langsung]]></description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[BPJS]]></category>
+    </item>
     <item>
       <title><![CDATA[Scrub Sink & Pass Box SUS304 dengan UV Sterilisasi untuk OT Steril]]></title>
       <link>https://hosp-it.id/artikel/scrub-sink-pass-box-sus304-uv-sterilisasi-untuk-ot-steril</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Panduan praktis hermetic door untuk rs: spesifikasi kedap udara untuk ot, icu & ruang linac untuk RS Indonesia. hermetic door, pintu hermetic RS, pintu OT hermetic — insight langsu]]></description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Medical Infra]]></category>
-    </item>
-    <item>
-      <title><![CDATA[8 FHIR Resources Wajib Kirim ke SatuSehat: Encounter hingga AllergyIntolerance]]></title>
-      <link>https://hosp-it.id/artikel/8-fhir-resources-wajib-satusehat-encounter-hingga-allergy</link>
-      <guid>https://hosp-it.id/artikel/8-fhir-resources-wajib-satusehat-encounter-hingga-allergy</guid>
-      <description><![CDATA[Panduan praktis 8 fhir resources wajib kirim ke satusehat: encounter hingga allergyintolerance untuk RS Indonesia. FHIR resources, HL7 FHIR R4, SatuSehat bridging — insight langsun]]></description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[SatuSehat]]></category>
     </item>
 </channel>
 </rss>
