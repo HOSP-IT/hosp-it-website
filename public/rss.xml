@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sat, 31 Oct 2026 02:49:15 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 02:41:48 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[DICOM Viewer Browser-Based vs Workstation: Keamanan & Kolaborasi Radiologi]]></title>
+      <link>https://hosp-it.id/artikel/dicom-viewer-browser-based-vs-workstation-keamanan-kolaborasi</link>
+      <guid>https://hosp-it.id/artikel/dicom-viewer-browser-based-vs-workstation-keamanan-kolaborasi</guid>
+      <description><![CDATA[Panduan praktis dicom viewer browser-based vs workstation: keamanan & kolaborasi radiologi untuk RS Indonesia. DICOM viewer, browser DICOM, viewer PACS — insight langsung dari tim ]]></description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[RIS PACS]]></category>
+    </item>
     <item>
       <title><![CDATA[5 Kesalahan Klaim INA-CBG yang Bikin Pending & Cara Cek Cepat di E-Klaim]]></title>
       <link>https://hosp-it.id/artikel/kesalahan-klaim-ina-cbg-bikin-pending-cara-cek-di-eklaim</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Panduan praktis filmless radiologi: hitung hemat 60% biaya film dengan pacs hosp-it untuk RS Indonesia. filmless radiologi, hemat biaya PACS, PACS filmless — insight langsung dari ]]></description>
       <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[RIS PACS]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Hermetic Door untuk RS: Spesifikasi Kedap Udara untuk OT, ICU & Ruang Linac]]></title>
-      <link>https://hosp-it.id/artikel/hermetic-door-rs-spesifikasi-untuk-ot-icu-linac</link>
-      <guid>https://hosp-it.id/artikel/hermetic-door-rs-spesifikasi-untuk-ot-icu-linac</guid>
-      <description><![CDATA[Panduan praktis hermetic door untuk rs: spesifikasi kedap udara untuk ot, icu & ruang linac untuk RS Indonesia. hermetic door, pintu hermetic RS, pintu OT hermetic — insight langsu]]></description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Medical Infra]]></category>
     </item>
 </channel>
 </rss>
