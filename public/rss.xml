@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Sun, 01 Nov 2026 02:41:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 03:25:09 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Demo Gratis SIMRS Hosp-IT: Apa yang Didapat di Assessment 2 Jam?]]></title>
+      <link>https://hosp-it.id/artikel/demo-gratis-simrs-hosp-it-apa-yang-didapat-assessment-2-jam</link>
+      <guid>https://hosp-it.id/artikel/demo-gratis-simrs-hosp-it-apa-yang-didapat-assessment-2-jam</guid>
+      <description><![CDATA[Panduan praktis demo gratis simrs hosp-it: apa yang didapat di assessment 2 jam? untuk RS Indonesia. demo SIMRS, assessment SIMRS, konsultasi SIMRS gratis — insight langsung dari t]]></description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[SIMRS]]></category>
+    </item>
     <item>
       <title><![CDATA[DICOM Viewer Browser-Based vs Workstation: Keamanan & Kolaborasi Radiologi]]></title>
       <link>https://hosp-it.id/artikel/dicom-viewer-browser-based-vs-workstation-keamanan-kolaborasi</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Panduan praktis simrs cloud vs on-premise: mana lebih aman untuk data pasien rs? untuk RS Indonesia. SIMRS cloud, SIMRS on premise, keamanan SIMRS — insight langsung dari tim Hosp-]]></description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[SIMRS]]></category>
-    </item>
-    <item>
-      <title><![CDATA[Filmless Radiologi: Hitung Hemat 60% Biaya Film dengan PACS Hosp-IT]]></title>
-      <link>https://hosp-it.id/artikel/filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it</link>
-      <guid>https://hosp-it.id/artikel/filmless-radiologi-hemat-60-persen-dengan-pacs-hosp-it</guid>
-      <description><![CDATA[Panduan praktis filmless radiologi: hitung hemat 60% biaya film dengan pacs hosp-it untuk RS Indonesia. filmless radiologi, hemat biaya PACS, PACS filmless — insight langsung dari ]]></description>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[RIS PACS]]></category>
     </item>
 </channel>
 </rss>
