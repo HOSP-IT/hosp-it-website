@@ -5,9 +5,17 @@
   <link>https://hosp-it.id/artikel</link>
   <description>Panduan SIMRS, RIS PACS, SatuSehat, BPJS & Medical Infra untuk RS Indonesia. Update setiap 3 hari.</description>
   <language>id-ID</language>
-  <lastBuildDate>Wed, 04 Nov 2026 03:25:09 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 03:18:03 GMT</lastBuildDate>
   <atom:link href="https://hosp-it.id/rss.xml" rel="self" type="application/rss+xml" />
   
+    <item>
+      <title><![CDATA[Katalog 113 Produk Hosp-IT: Daftar Lengkap & Harga Indikatif Medical Infra 2026]]></title>
+      <link>https://hosp-it.id/artikel/katalog-113-produk-hosp-it-daftar-harga-indikatif-medical-infra-2026</link>
+      <guid>https://hosp-it.id/artikel/katalog-113-produk-hosp-it-daftar-harga-indikatif-medical-infra-2026</guid>
+      <description><![CDATA[Panduan praktis katalog 113 produk hosp-it: daftar lengkap & harga indikatif medical infra 2026 untuk RS Indonesia. katalog Hosp-IT, 113 produk, medical infra katalog — insight lan]]></description>
+      <pubDate>Sun, 29 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Medical Infra]]></category>
+    </item>
     <item>
       <title><![CDATA[Demo Gratis SIMRS Hosp-IT: Apa yang Didapat di Assessment 2 Jam?]]></title>
       <link>https://hosp-it.id/artikel/demo-gratis-simrs-hosp-it-apa-yang-didapat-assessment-2-jam</link>
@@ -159,14 +167,6 @@
       <description><![CDATA[Panduan praktis medical gas system: standar instalasi o2, n2o & vacuum + alarm untuk rs tipe c/b untuk RS Indonesia. medical gas RS, instalasi gas medis, alarm medical gas — insigh]]></description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Medical Infra]]></category>
-    </item>
-    <item>
-      <title><![CDATA[SIMRS Cloud vs On-Premise: Mana Lebih Aman untuk Data Pasien RS?]]></title>
-      <link>https://hosp-it.id/artikel/simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs</link>
-      <guid>https://hosp-it.id/artikel/simrs-cloud-vs-on-premise-mana-lebih-aman-untuk-rs</guid>
-      <description><![CDATA[Panduan praktis simrs cloud vs on-premise: mana lebih aman untuk data pasien rs? untuk RS Indonesia. SIMRS cloud, SIMRS on premise, keamanan SIMRS — insight langsung dari tim Hosp-]]></description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[SIMRS]]></category>
     </item>
 </channel>
 </rss>
